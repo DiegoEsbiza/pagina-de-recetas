@@ -1,0 +1,9 @@
+.cabecera {
+	align-items: center;       /*centrar item*/
+	background-color: #f9f9f9;
+	display: flex;                /*mantener todo a la misma altura*/
+	justify-content: space-between;   
+	padding-left: 2rem;
+	padding-right: 2rem;
+
+}
