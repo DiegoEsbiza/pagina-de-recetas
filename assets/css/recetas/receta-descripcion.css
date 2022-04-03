@@ -4,9 +4,5 @@
 	text-align: justify; /*comentado abajo*/
 }
 
-.receta__contenido {
-	padding: 1rem;
-}
-
 /* -Justify: define la distribucion de los elementos, el espacio entre y alrededor de los items "FLEX" (ver receta.css)
 a lo largo el eje principal de su contenedor*/
