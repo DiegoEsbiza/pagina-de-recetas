@@ -1,0 +1,12 @@
+.receta {
+	background: #fsfsfs;
+	display: flex; /*flex para alinear todo*/
+	flex-direction: column; /*para tener el contenido encolumnado*/
+	margin-bottom: 5rem;
+	margin-right: 5rem;
+	width: calc(25% - 5rem); 
+}
+
+receta__imagen.css {
+	height: 200px;
+}
